@@ -46,5 +46,8 @@ public class LRUTest {
         }
 
 
+        LinkedHashMap<String, Object> stringObjectLinkedHashMap = new LinkedHashMap<>();
+
+
     }
 }

@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java_basics_arrayList" />
         <module name="java_basics_01" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="java_basics_arrayList" target="1.8" />
       <module name="javaBasics1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
